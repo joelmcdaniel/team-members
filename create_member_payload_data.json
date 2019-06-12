@@ -1,0 +1,34 @@
+[
+    {
+        "oid": null,
+        "name": "Joel McDaniel",
+        "type": {
+            "key": 1,
+            "value": "Employee",
+            "properties": {
+                "role": "Senior Golang Engineer"
+            }
+        },
+        "tags": [
+            "Go",
+            "Golang",
+            "MongoDB"
+        ]
+    },
+    {
+        "oid": null,
+        "name": "Someone Else",
+        "type": {
+            "key": 0,
+            "value": "Contractor",
+            "properties": {
+                "duration": "6 months"
+            }
+        },
+        "tags": [
+            "JavaScript",
+            "HTML5/CSS3",
+            "Vue.js"
+        ]
+    }
+]
