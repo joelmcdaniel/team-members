@@ -1,5 +1,5 @@
 # Team-Members
-Team-Members is a back-end application that helps organisations manage their teams. It consists of a Go RESTful API app and uses [MongoDb](https://www.mongodb.com/) for the database. The [Gin Web Framework](https://github.com/gin-gonic/gin) package is used for HTTP routing and the [MongoDB Go Driver](https://github.com/mongodb/mongo-go-driver) package is used to connect and work with MongoDB.
+Team-Members is a back-end application that helps organizations manage their teams. It consists of a Go RESTful API app and uses [MongoDb](https://www.mongodb.com/) for the database. The [Gin Web Framework](https://github.com/gin-gonic/gin) package is used for HTTP routing and the [MongoDB Go Driver](https://github.com/mongodb/mongo-go-driver) package is used to connect and work with MongoDB.
 
 # Features and Requirements
 
